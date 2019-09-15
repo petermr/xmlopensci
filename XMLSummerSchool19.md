@@ -14,6 +14,7 @@ this knowledge. A major new development is the use of Wikidata to add linked kno
 ### Climate change
 There are tens of thousands of articles on climate change and we'll search them in the same way. 
 
+
 ## How the project works
 
 Anyone can install and run AMI in a few minutes and we invite delegates to have a go. This is *voluntary* but hopefully fun. AMI reads and emits
@@ -25,6 +26,9 @@ You will first install `getpapers` and download
 some papers;
 and then install `AMI` and `ami-search` the papers with a selection of dictionaries. When you are confident, you can then make your own dictionaries from simple
 word lists.
+
+### installing software
+
 
 ## people involved
 Many thanks to volunteers (alphabetical order)
