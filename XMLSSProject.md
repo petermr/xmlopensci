@@ -7,12 +7,12 @@ It shows how XML can be easily deployed within minutes and search world-leading 
 ## The project
 
 ### plants and medicines
-We are going to search the modern scientific literature (over 5-20 million articles) for **plants** with **medicinal** **chemicals**. (So many drugs come from plants - 
-quinine, taxol, artemisin, aspirin.). We've made dictionaries of terms for all these concepts and produced a robust commandline tool (AMI) to extract 
-this knowledge.
+We are going to search the modern scientific literature (over 5-20 million articles) for **plants** producing **chemicals** with  **medicinal properties** . (So many drugs come from plants - 
+quinine, taxol, artemisin, aspirin.). We've made XML dictionaries of terms for all these concepts and produced a robust commandline tool (AMI) to extract 
+this knowledge. A major new development is the use of Wikidata to add linked knowledge
 
 ### Climate change
-There are tens of thousands of articles on climate change and we'll search them in the same way.
+There are tens of thousands of articles on climate change and we'll search them in the same way. 
 
 ## How the project works
 
@@ -39,9 +39,15 @@ Graham will be at XMLSS19 and will act as PeterMR's "avatar", making sure that t
 ### Ambarish Kumar (New Delhi)
 Ambarish helped create a tutorial/workshop in 2019-02 and is continuing to support the creation on dictionaries and implementation.
 
+### Tiago Lubiana (Univ Sao Paulo)
+Tiago coordinated the eLife Sprint and added many terms to Wikidata
+
 ### Simon Worthington (TiB, Hannover)
 Simon runs Open Science in TiB (the German Technical Library) and has made climate a special feature.
 
+
+### eLife Sprint
+A group of 6 delegates at eLife Sprint , Cambridge, 2019-09-04 who prototyped the creation of dictionaries from text.
 
 ### XMLSummer School
 Thanks to all running the event, espcially Lauren Wood and John Chelsom.
