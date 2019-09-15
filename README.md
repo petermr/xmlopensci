@@ -9,8 +9,8 @@ Projects using XML to do OpenNoteBook Science that anyone can join:
 
 ### Climate change
 With Simon Worthington.
-[Climate change] (http://github.com/petermr/climate)
+[Climate change](http://github.com/petermr/climate)
 
 ### Medcine from plants
 With Manny Faria
-[Medicinal plants] (http://github.com/petermr/CEVOpen)
+[Medicinal plants](http://github.com/petermr/CEVOpen)
