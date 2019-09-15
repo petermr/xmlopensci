@@ -20,12 +20,14 @@ Anyone can install and run AMI in a few minutes and we invite delegates to have 
 XML and shows how procedural code and XSLT can both be used to filter and aggregate information. The JATS DTD (was NLM) is probably the most widely
 used XML flavour for science and worth investigating in its own right.
 
-All instructions will gradually appear on this repo. If you are unclear, just raise an Issue. The project is to install `getpapers` and download
-some papers and then `ami-search` them with a selection of dictionaries. When you are confident you can make your own dictionaries from simple
+All instructions will gradually appear on this repo. If you are unclear, just [raise an Issue](RaisingIssues.md). 
+You will first install `getpapers` and download
+some papers;
+and then install `AMI` and `ami-search` the papers with a selection of dictionaries. When you are confident, you can then make your own dictionaries from simple
 word lists.
 
 ## people involved
-Many thanks to volunteers (alpha order)
+Many thanks to volunteers (alphabetical order)
 
 ### Emanuel Faria ("Manny") (Brasilia)
 Manny develops skin medicines (antibacterials) from plant oils and is helping run the CEV project
