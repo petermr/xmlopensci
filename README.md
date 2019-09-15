@@ -5,7 +5,7 @@ A personal collection of resources and experiences in using XML for Open Science
 [Tools and instructions](XMLSummerSchool19.md) for delegate volunteers to try out XML tools at the event 
 
 ## XMLOpenNotebook
-Projects using XML to do OpenNoteBook Science that anyone can join:
+Projects using [XML to do OpenNoteBook Science](http://github.com/petermr/opennotebook) that anyone can join:
 
 ### Climate change
 With Simon Worthington.
