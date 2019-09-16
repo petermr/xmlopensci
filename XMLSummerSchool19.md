@@ -28,6 +28,7 @@ and then install `AMI` and `ami-search` the papers with a selection of dictionar
 word lists.
 
 ### installing software
+We hope that all software can be distriuted as Docker images and then simply run on commandline. However there is also a Node/Java-absed approach described undr Tigr2ess (more later).
 
 
 ## people involved
