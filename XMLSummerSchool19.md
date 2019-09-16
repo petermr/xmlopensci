@@ -30,6 +30,11 @@ word lists.
 ### installing software
 We hope that all software can be distriuted as Docker images and then simply run on commandline. However there is also a Node/Java-absed approach described undr Tigr2ess (more later).
 
+### docker
+Ambarish is building this at present. Hopefully updated later 2019-09-16
+* getpapers
+* ami3
+
 
 ## people involved
 Many thanks to volunteers (alphabetical order)
