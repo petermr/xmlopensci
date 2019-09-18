@@ -59,9 +59,8 @@ Ambarish helped create a tutorial/workshop in 2019-02 and is continuing to suppo
 ### Tiago Lubiana (Univ Sao Paulo)
 Tiago coordinated the eLife Sprint and added many terms to Wikidata
 
-### Simon Worthington (TiB, Hannover)
-Simon runs Open Science in TiB (the German Technical Library) and has made climate a special feature.
-
+### Simon Worthington (TIB, Hannover)
+Simon member of Open Science Lab at TIB (German National Library of Science and Technology) and has made climate a special feature.
 
 ### eLife Sprint
 A group of 6 delegates at eLife Sprint , Cambridge, 2019-09-04 who prototyped the creation of dictionaries from text.
